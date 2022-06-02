@@ -1,0 +1,16 @@
+{
+  "notifications": [
+    {
+      "id": 1,
+      "text": "notification 1"
+    },
+    {
+      "id": 2,
+      "text": "notification 2"
+    },
+    {
+      "id": 3,
+      "text": "notification 3"
+    }
+  ]
+}
